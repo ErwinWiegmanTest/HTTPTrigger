@@ -1,6 +1,7 @@
 //EW: 17-12-2018 - Test aanpassing 1
 //EW: 17-12-2018 - Test aanpassing 2
 //EW: 17-12-2018 - Test aanpassing 2
+// https://httptriggertestew001.azurewebsites.net/api/HttpTrigger?name=erwin
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
