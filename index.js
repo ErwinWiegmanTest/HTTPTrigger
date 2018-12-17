@@ -1,5 +1,6 @@
 //EW: 17-12-2018 - Test aanpassing 1
 //EW: 17-12-2018 - Test aanpassing 2
+//EW: 17-12-2018 - Test aanpassing 2
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
